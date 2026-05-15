@@ -1,4 +1,6 @@
 This is the update file which is created on update branch
 fetch and pull completed successfully
 I have tested pull fetch and merge conflict problem.
+added new line
+
 
